@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.sqlite3
+db.sqlite3
+
+# Environment & IDE
+.venv/
+env/
+venv/
+.DS_Store
+.idea/
+.vscode/
+
+# Word Document (kept local, not required in git repository)
+*.doc
+*.docx
